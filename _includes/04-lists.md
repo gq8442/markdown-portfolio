@@ -1,7 +1,4 @@
 # Here is list of things I love to do
-| Professional  | Personal |
-| ------------- | ------------- |
-| Vehicle Simulation  | Travelling  |
-| Working with Sensors  | Bike riding  |
-| Coding  | Hiking  |
-| Algorithm development  | Painting  |
+
+- Professional : ADAS / AD Vehicle Simulation, Working with Sensors, Coding, Algorithm development
+- Personal : Travelling, Bike riding, Hiking, Painting
