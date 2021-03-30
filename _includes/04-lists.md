@@ -1,5 +1,5 @@
 # Here is list of things I love to do
-| **Professional**  | **Personal** |
+| Professional  | Personal |
 | ------------- | ------------- |
 | Vehicle Simulation  | Travelling  |
 | Working with Sensors  | Bike riding  |
