@@ -1,9 +1,9 @@
 # My technical Skills
 
 ## Programming languages
-- C, C++, Python, MATLAB, R, Octave
+### C, C++, Python, MATLAB, R, Octave
 ## Deep Learning Frameworks 
-- Pytorch, Keras, and TensorFlow
+### Pytorch, Keras, and TensorFlow
 ## Vehicle Dynamics, ADAS and AD Simulation
 - CarMaker, Simcenter Prescan, Carla Simulator, Unreal Engine, Gazebo & ROS
 ## Model-based Design and Testing
